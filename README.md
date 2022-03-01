@@ -14,7 +14,7 @@ Each post has a ranking number.
 
 A post with a higher ranking will show up in the feed before a post with a lower ranking.
 
-The ranking is calculated by [computeRanking](https://github.com/elijahleinkram/jasper/blob/master/ranking/compute_ranking.js).
+The ranking is calculated by [computeRanking](https://github.com/elijahleinkram/feedstack/blob/master/feedstack_website/ranking/compute_ranking.js).
 
 The [computeRanking](https://github.com/elijahleinkram/jasper/blob/master/ranking/compute_ranking.js) function takes in 3 classes as input.
 
