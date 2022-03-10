@@ -1,12 +1,10 @@
 # About
 
-[Feedstack](https://feedstack.dev) is a progammable social network.
+Feedstack is a progammable social network.
 
 We give developers the tools to make and share their own feeds.
 
 That means you can decide what posts enter the feed. And the order in which they appear. 
-
-You can install [Feedstack](https://feedstack.dev) on [IOS](https://apps.apple.com/us/app/feedstack-find-your-feed/id1534175629?app=itunes&ign-mpt=uo%3D4) and on [Android](https://play.google.com/store/apps/details?id=com.jasper.jasper).
 
 # How it works
 
