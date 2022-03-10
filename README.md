@@ -20,9 +20,9 @@ The [computeRanking](https://github.com/elijahleinkram/feedstack/blob/master/fee
 
 And then spits back a number as output, which becomes the new ranking.
 
-Upload your implementation of [computeRanking](https://github.com/elijahleinkram/feedstack/blob/master/feedstack_website/ranking/compute_ranking.js) to [Feedstack](https://feedstack.dev).
+Upload your implementation of [computeRanking](https://github.com/elijahleinkram/feedstack/blob/master/feedstack_website/ranking/compute_ranking.js) to Feedstack.
 
-[Feedstack](https://feedstack.dev) will then generate a new feed based on the new implementation. 
+Feedstack will then generate a new feed based on the new implementation. 
 
 # Rules
 
